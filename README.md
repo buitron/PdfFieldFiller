@@ -4,6 +4,13 @@ PdfFieldFiller leverages the PyPDF2 library by
 streamlining the ability to fill our a PDF form
 fields by utilizing a configuration file.
 
+## Installation
+
+You can install the package from the PyPI Package Repository using `pip`
+```bash
+pip install PdfFieldFiller
+```
+
 ## Examples
 
 An example configuration file can be found in the 
