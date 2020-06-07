@@ -17,5 +17,5 @@ unittest framework. All tests are located in the
 line by:
 
 ```bash
-python -m unittest Tests.tests
+python -m unittest tests.tests
 ```
