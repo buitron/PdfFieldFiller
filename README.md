@@ -7,7 +7,7 @@ fields by utilizing a configuration file.
 ## Examples
 
 An example configuration file can be found in the 
-`tests\etc`folder.
+`tests/etc`folder.
 
 
 ## Tests
